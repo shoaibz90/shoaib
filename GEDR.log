@@ -1,0 +1,56 @@
+Tue Sep 13 17:40:55 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 17:40:55 2016	[VAL] Restoring user PAC
+Tue Sep 13 17:40:55 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 17:40:57 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 76db64489fbca4f21e8e629abae3ab857037446b gateway-alp.ge-sand.com:443 -setpac
+Tue Sep 13 17:40:57 2016	[AU] Starting wxTheApp
+Tue Sep 13 17:40:57 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 17:41:00 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:09:52 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:09:52 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:09:53 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:09:54 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 839182d2c05fa86420244a7edf65415dd4959f9a gateway-alp.ge-sand.com:443 -setpac
+Tue Sep 13 18:09:54 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:09:54 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:09:56 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:12:22 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:12:22 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:12:22 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:12:23 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" f8431309788ef2f01e3d05c32df59e5b035c9026 gateway-alp.ge-sand.com:443 -setpac
+Tue Sep 13 18:12:23 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:12:23 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:12:26 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:12:41 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:12:41 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:12:41 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:12:42 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 2771eff7d3268c4ffaf575de41d95bb4cefc78da gateway-lon.ge-sand.com:443 -setpac
+Tue Sep 13 18:12:42 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:12:42 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:12:46 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:15:16 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:15:16 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:15:17 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:15:18 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 475c6ecb0fb839d8135e0c0150e53ecb576332c4 gateway-lon.ge-sand.com:443 -setpac
+Tue Sep 13 18:15:18 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:15:18 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:15:22 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:15:42 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:15:42 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:15:42 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:15:44 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 5333b4251d5c1159d12a653fff99b54e07e18d85 gateway-tok.ge-sand.com:443 -setpac
+Tue Sep 13 18:15:44 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:15:44 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:15:50 2016	[VAL] Validation Success, Connection restored
+Tue Sep 13 18:19:41 2016	[VAL] !!!!!!!! Stunnel.exe gone !!!!!!!!!!
+Tue Sep 13 18:19:41 2016	[VAL] Restoring user PAC
+Tue Sep 13 18:19:41 2016	[VAL] Succesfully restored the user's pac file
+Tue Sep 13 18:19:42 2016	[AU] --- App Starting ---
+			"C:\Windows\Options\DRClient\DRClient.exe" 080e74a01c1b5ff2ed6c2f056ab819c74964710a gateway-cin.ge-sand.com:443 -setpac
+Tue Sep 13 18:19:42 2016	[AU] Starting wxTheApp
+Tue Sep 13 18:19:42 2016	[VAL] -----Validation loop starting-----
+Tue Sep 13 18:19:44 2016	[VAL] Validation Success, Connection restored
